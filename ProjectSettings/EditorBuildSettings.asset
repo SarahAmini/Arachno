@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+  - enabled: 1
+    path: Assets/Scenes/idleSpiderInGlass10sec.unity
+  - enabled: 1
+    path: Assets/Scenes/twoIdleSpiderInGlass10sec.unity
+  - enabled: 1
+    path: Assets/Scenes/idleUglySpiderInGlass10sec.unity
+  - enabled: 1
+    path: Assets/Scenes/10secondsLevelIdle.unity
+  - enabled: 1
+    path: Assets/Scenes/singleOutsideTriggeredJump.unity
+  - enabled: 1
+    path: Assets/Scenes/TwoSpiderWithTriggerInGlass.unity
+  - enabled: 1
+    path: Assets/Scenes/uglyOutsideTriggeredJump.unity
+  - enabled: 1
+    path: Assets/Scenes/twoSpiderWithTrigger.unity
+  - enabled: 1
+    path: Assets/Scenes/moveCircular10secSingle.unity
+  - enabled: 1
+    path: Assets/Scenes/moveCircular10secUgly.unity
+  - enabled: 1
+    path: Assets/Scenes/PressButtonSingle.unity
+  - enabled: 1
+    path: Assets/Scenes/pressButtonUgly.unity
+  - enabled: 1
+    path: Assets/Scenes/pressButtonVirtual.unity
+  - enabled: 1
+    path: Assets/Scenes/pressButtonVirtualUgly.unity
+  - enabled: 1
+    path: Assets/Scenes/idleInHand.unity
+  - enabled: 1
+    path: Assets/Scenes/walkingInHand.unity
